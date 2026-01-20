@@ -17,3 +17,5 @@ Migrate the coventry university student timetable to an ics file
 ![paste response.txt](images/step2.png)
 
 5. run `main.py`, and you'll hopefully see `calender.ics` get created in the root folder of the repo :)
+
+6. Upload that ics file to any calender application, I imagine basically all of them allow you to upload a ics file (google calender and thunderbird do).
